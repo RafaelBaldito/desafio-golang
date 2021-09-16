@@ -1,10 +1,10 @@
-## Desafio do curso FullCycle
+# Desafio do curso FullCycle
 
-# Pull image locally
-'''
+## Pull image locally
+```
 $docker pull raoliveira2005/codeeducation
-'''
-# Run locally
-'''
+```
+#`# Run locally
+```
 $docker run raoliveira2005/codeeducation
-'''
+```
