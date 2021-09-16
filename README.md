@@ -1,5 +1,4 @@
-# desafio-golang
-Desafio do curso FullCycle
+# Desafio do curso FullCycle
 
 Original sourde: https://hub.docker.com/repository/docker/raoliveira2005/codeeducation
 
